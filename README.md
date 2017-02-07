@@ -2,8 +2,8 @@
 >时间：2017-02-07 15:40:25
 
 ## 教程目录
-[《手把手教你 webpack 简单实例》](https://github.com/zhongxia245/webpack/blob/master/webpack01.md)
-[《手把手教你 webpack 如何和 react 一起使用》](https://github.com/zhongxia245/webpack/blob/master/webpack01.md)
+1. [《手把手教你 webpack 简单实例》](https://github.com/zhongxia245/webpack/blob/master/webpack01.md)
+2. [《手把手教你 webpack 如何和 react 一起使用》](https://github.com/zhongxia245/webpack/blob/master/webpack02.md)
 
 
 
