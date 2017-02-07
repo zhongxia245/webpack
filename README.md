@@ -1,8 +1,14 @@
 ## Webpack + React 的打包方式
 >时间：2017-02-07 15:40:25
 
-使用Webpack打包React 会造成重新打包出来的JS文件非常大，但是如果把React,ReactDOM 使用CDN直接去加载进来，则打包出来的文件会变成很小。废话少说，实例为证。
+## 教程目录
+[《手把手教你 webpack 简单实例》](https://github.com/zhongxia245/webpack/blob/master/webpack01.md)
+[《手把手教你 webpack 如何和 react 一起使用》](https://github.com/zhongxia245/webpack/blob/master/webpack01.md)
 
+
+
+## webpack externals 效果
+使用Webpack打包React 会造成重新打包出来的JS文件非常大，但是如果把React,ReactDOM 使用CDN直接去加载进来，则打包出来的文件会变成很小。废话少说，实例为证。
 
 ### 一、实例代码
 

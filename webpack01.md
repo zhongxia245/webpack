@@ -83,3 +83,4 @@ http-server
 这里还没有用到 react， 只是单独的使用webpack 去打包 js 资源模块
 
 如何集成 react 呢， 来看 下一章节。 【TODO】
+[《手把手教你 webpack 如何和 react 一起使用》](https://github.com/zhongxia245/webpack/blob/master/webpack01.md)
