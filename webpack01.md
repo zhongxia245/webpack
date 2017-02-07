@@ -64,11 +64,19 @@ module.exports = {
 ### 五、运行项目
 
 ```bash
+# 打包 -color 显示进度的时候有颜色  --profile 显示打包各个文件的时间，
+webpack --colors --profile --display-modules
+
+# 在 package.json 添加一个 scripts 里面添加一个 build
+"build": "webpack --colors --profile --display-modules"
+
+#  执行 npm run build 即可
+
 npm i -g http-server 
 
 http-server
 
-#访问  localhost:8080
+# 访问  localhost:8080
 ```
 
 ## 总结
